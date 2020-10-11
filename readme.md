@@ -17,6 +17,7 @@ Nuclear is an open source Multithreaded Reliable UDP Networking Library with tic
   - Guaranteed data transmission in UDP with high performance.
   - Utilizes multiple threads to send, receive and handle data requested by multiple connected users.
   - Server can send huge data of any size to the client without any physical limit.
+  - Without having to rely on plug-ins (I'm looking at you, Flash) Web developers are now able to implement and experiment with high-performance gaming in the browser. 
   
   ## Application
   
